@@ -1,0 +1,1 @@
+// Qui andrà la configurazione di DecapCMS se necessaria
